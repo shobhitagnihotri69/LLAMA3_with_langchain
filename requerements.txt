@@ -1,0 +1,14 @@
+langchain
+openai
+fastapi
+unicorn
+langchain_huggingface
+langchain_ollama
+ollama
+python-dotenv
+streamlit
+langserve
+langsmith
+langserve
+langgraph
+
